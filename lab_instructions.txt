@@ -11,7 +11,8 @@ In the steps below I’ll list the tasks you need to perform, as well as the rel
 			 	and carefully read through the text.
              c.	Determine which content should be represented as headings, and then which level of headings you should use for each page.
 			 	Focus on being consistent in how you assign headings for each page.
-             d.	Go through each of the pages, and format headings based on your strategy.
+             d.	Go through each of the pages, and format
+			 	headings based on your strategy.
 
 2.	Format paragraphs
              a.	Applies to: index.html
